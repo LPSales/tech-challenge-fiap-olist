@@ -46,6 +46,16 @@ A base reúne informações sobre pedidos, clientes, produtos, vendedores, pagam
 
 Transformar dados históricos em informações estratégicas que apoiem a tomada de decisão, permitindo avaliar o crescimento, a previsibilidade comercial e os riscos operacionais de um marketplace.
 
+### 8. Como executar o projeto
+
+1. Acesse o notebook disponível neste repositório.
+2. Abra o arquivo no Google Colab.
+3. Baixe o dataset público da Olist no Kaggle.
+4. Faça o upload do arquivo ZIP quando solicitado pela primeira célula de importação.
+5. Execute as células sequencialmente para extrair os arquivos, carregar as tabelas e reproduzir as análises.
+
+**Observação:** o dataset original não está armazenado neste repositório. É necessário disponibilizá-lo separadamente para executar o notebook.
+
 ---
 
 **Projeto acadêmico — FIAP | Pós-Graduação em Data Analytics**
